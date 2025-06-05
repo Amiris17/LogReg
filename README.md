@@ -22,7 +22,7 @@ This project demonstrates a simple linear regression model built using scikit-le
 - Basics of model evaluation
 - How to visualize model performance
 
-## 📌 Future Work (Optional)
+## 📌 Future Work
 
 - Try multivariate regression
 - Use different evaluation metrics
